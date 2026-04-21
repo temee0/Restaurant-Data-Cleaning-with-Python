@@ -7,7 +7,7 @@ Zomato is a widely used platform for discovering restaurants, exploring menus, a
 The dataset used in this project contains information about restaurants including names, ratings, online ordering availability, table booking options, cost for two people, and popular dishes.
 The raw dataset contained inconsistencies such as missing values, incorrect data types, encoding issues, and formatting problems, making it unsuitable for direct analysis.
 
-**🧹 Project Overview**
+## 🧹 Project Overview
 
 This project focuses on cleaning and preprocessing a messy Zomato restaurant dataset using Python. The goal was to transform the raw data into a structured and reliable format for accurate exploratory data analysis (EDA).
 A systematic approach was used to handle missing values, fix inconsistencies, and standardize the dataset.
@@ -31,6 +31,7 @@ This project highlights the importance of proper data cleaning in real-world dat
 - Mixed data types
 - Text inconsistencies
 - Encoding issues
+
 The cleaned dataset can now be confidently used for visualization, insights generation, and further analysis.
 ## Code Snippet
 ![](https://github.com/temee0/Restaurant-Data-Cleaning-with-Python/blob/main/restaurant%20code%20snippet.png)
