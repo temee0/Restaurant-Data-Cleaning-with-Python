@@ -1,5 +1,6 @@
 # Zomato Restaurant Data Cleaning with Python
 ![](https://github.com/temee0/Restaurant-Data-Cleaning-with-Python/blob/main/image.jpg)
+
 Zomato is a widely used platform for discovering restaurants, exploring menus, and reading customer reviews. It generates large volumes of data that can be used to analyze customer preferences, pricing trends, and restaurant performance.
 
 **📊 About the Dataset**
